@@ -1,5 +1,5 @@
 {
-    "name": "wmandai/livewire-status-board",
+    "name": "beanflare/livewire-status-board",
     "description": "Livewire component to show models/data according to its current status",
     "keywords": [
         "asantibanez",
@@ -37,7 +37,6 @@
     "scripts": {
         "test": "vendor/bin/phpunit",
         "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
-
     },
     "config": {
         "sort-packages": true
